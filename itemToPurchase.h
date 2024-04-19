@@ -8,3 +8,10 @@ using namespace std;
 class ItemToPurchase{
 
    private: 
+   string itemName; 
+   int itemPrice;
+   int itemQuality;
+
+   public;
+   ItemToPurchase;
+
