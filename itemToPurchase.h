@@ -1,10 +1,10 @@
-#include <iostream>
+#ifndef ITEM_TO_PURCHASE_H
+#define ITEM_TO_PURCHASE_H
+
+#include <string> 
 using namespace std;
 
-#include "ItemToPurchase.h"
 
-int main() {
-   
-   
-   return 0;
-}
+class ItemToPurchase{
+
+   private: 
